@@ -61,8 +61,8 @@ Visualizes the connected vs. unconnected population over time as a stacked area 
 
 1. Clone this repository
 ```bash
-git clone https://github.com/indahtamara/World_Internet_Adoption_Analysis_-1990-2024-.git
-cd World_Internet_Adoption_Analysis_-1990-2024-
+git clone https://github.com/indahtamara/World_Internet_Adoption_Analysis.git
+cd World_Internet_Adoption_Analysis
 ```
 
 2. Install dependencies
